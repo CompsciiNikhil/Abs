@@ -1,0 +1,63 @@
+{
+  "name": "IA-2",
+  "projectId": "333c804f-e98c-4b14-a0c8-3cc482e46ac1",
+  "description": "Blank Process",
+  "main": "10.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[3.6.1]",
+    "UiPath.GSuite.Activities": "[3.11.10]",
+    "UiPath.IntegrationService.Activities": "[1.31.0]",
+    "UiPath.PDF.Activities": "[4.5.0-preview]",
+    "UiPath.System.Activities": "[26.8.0]",
+    "UiPath.UIAutomation.Activities": "[26.10.3]",
+    "UiPath.Word.Activities": "[2.6.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.1",
+  "studioVersion": "26.0.200.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": true,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "10.xaml",
+      "uniqueId": "103d7424-d6f5-453d-9500-1af449d33b8e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

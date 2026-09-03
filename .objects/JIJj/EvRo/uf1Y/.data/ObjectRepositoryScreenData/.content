@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="4NYYf-NSCEivdUm9ri-9VA" Reference="ErPi3rHuSk-yqqDr82saDQ/uf1Yfc9-i0WxvkpmKng2hQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="t2SPZIgxkk6Zg9_uCrypcg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGfSURBVDhPrZOxSwJhGMZt7S8oamh0DApcHbr7B6KzrU0Fi/o8xaIxyHCoCFRKLjWCCqKGIM+gvGxNs2iLlrsIa6twCXqf+BT17jQI6oHf8B3v77l7Dz6H4z8jy3B6vei1P/9F0CMzuolGCfMRqoUYJF8GBzMxwtwiISgT5KCZr12LHpqDO7pM4CmVgCAjzZcFUieEyj1QuQVuKw2OjxolloJwGH3zEaJyGdjJEmT2te7L4G1pm5DeJ2SyhGymwfoa8Rd8Wgp4ZIapIKMH/nmMYcC3h9HpFTpjCx0r3IVm4bL7DknUVz2CXvWIenFSNFySoAc8gv7oEQ2YkUTjlc9a5AnhadgyNGYcSoLxYZfNjIvPzlYBP3QUiMa7XfqxgKe5giToV60VREO3i11X4MlpiKkFVFUNxfwVRhIKAgkFjwkFMBNX8JpQELPIahH9qgZSNYBzeoGtuII3u2yCNlIYbBcU4G/K9YJzvHSR7PhbBQB6chrKXM5pqKmXkOIKdrtIdeIKStxpFTSTL8B5ct2+TMk0hpIpuM1spmH9+3/NNxJ4y3Enc5wpAAAAAElFTkSuQmCC" Reference="ErPi3rHuSk-yqqDr82saDQ/uf1Yfc9-i0WxvkpmKng2hQ" Selector="&lt;html app='chrome.exe' title='Personal Details' /&gt;" Url="https://docs.google.com/forms/d/e/1FAIpQLScKVuqUp4dFWcGVa6ME3wiX1-NhZ5jQE0poB2v-M8PqiE_dpg/viewform" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="e450099d84bd4fcb541f366ae6fe76a3.jpg" xmlns="">0wmakZYc_L0SC0GPDbMSrmQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

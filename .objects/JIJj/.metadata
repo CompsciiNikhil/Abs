@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Details",
+  "Type": "App",
+  "Id": "JIJjK9tWVkeBTE8Z7q0RLg",
+  "Reference": "ErPi3rHuSk-yqqDr82saDQ/JIJjK9tWVkeBTE8Z7q0RLg",
+  "Created": "2026-09-03T05:52:22.2987647Z",
+  "Updated": "2026-09-03T05:52:22.2987647Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
