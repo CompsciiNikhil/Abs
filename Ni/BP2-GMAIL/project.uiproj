@@ -1,0 +1,6 @@
+{
+  "Name": "BP2-GMAIL",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

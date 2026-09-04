@@ -1,0 +1,6 @@
+{
+  "Name": "BP6-Subjects",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "BP3-UniqueWords",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
